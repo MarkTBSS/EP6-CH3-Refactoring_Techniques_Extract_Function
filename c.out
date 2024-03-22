@@ -1,0 +1,8 @@
+mode: set
+github.com/MarkTBSS/EP6-CH3-Refactoring_Techniques_Extract_Function/extract_function_example.go:10.41,11.21 1 1
+github.com/MarkTBSS/EP6-CH3-Refactoring_Techniques_Extract_Function/extract_function_example.go:11.21,13.3 1 1
+github.com/MarkTBSS/EP6-CH3-Refactoring_Techniques_Extract_Function/extract_function_example.go:14.2,14.14 1 1
+github.com/MarkTBSS/EP6-CH3-Refactoring_Techniques_Extract_Function/extract_function_example.go:18.34,23.2 3 0
+github.com/MarkTBSS/EP6-CH3-Refactoring_Techniques_Extract_Function/extract_function_example.go:26.42,29.2 2 0
+github.com/MarkTBSS/EP6-CH3-Refactoring_Techniques_Extract_Function/extract_function_example.go:30.49,33.2 2 0
+github.com/MarkTBSS/EP6-CH3-Refactoring_Techniques_Extract_Function/extract_function_example.go:34.13,41.2 6 0
